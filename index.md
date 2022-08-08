@@ -9,3 +9,7 @@ An obscure animated character
 ```
 print("Hello World") prints Hello World in Python
 ```
+
+- [x] Task list needs to be added
+- [x] All previous steps were completed
+- [ ] Unchecked box to prove I can make one
